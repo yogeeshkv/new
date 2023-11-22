@@ -6,4 +6,4 @@ echo "hello"
 echo "good"
 echo "dvg"
 echo "yogi"
-echo "kill"
+
